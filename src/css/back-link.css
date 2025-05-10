@@ -4,7 +4,7 @@
   margin: 16px 40px;
   display: inline-block;
   padding: 8px 16px;
-  background-color: #4e9af1;
+  background-color: #4e75ff;
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
@@ -14,11 +14,11 @@
 }
 
 .back-link:hover {
-  background-color: #357edd;
+  background-color: #6c8cff;
   transform: translateY(-2px);
 }
 
 .back-link:active {
-  background-color: #2c6ac6;
+  background-color: #6c8cff;
   transform: translateY(0);
 }
